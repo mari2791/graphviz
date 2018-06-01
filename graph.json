@@ -39,6 +39,6 @@
     {"size": 60, "score": 0.8, "id": "Eluder", "type": "square"},
     {"size": 10, "score": 1, "id": "Drone", "type": "square"},
     {"id": "Intruder", "type": "square"}],
-  "directed": true,
+  "directed": false,
   "multigraph": false
 }
